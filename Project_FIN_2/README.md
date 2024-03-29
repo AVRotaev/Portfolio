@@ -1,6 +1,6 @@
 # Проект "Событийный анализ стартапа по продаже продуктов"
 
-[HTML](https://github.com/AVRotaev/Portfolio/blob/main/Project_FIN_2/Project_FIN_2.html) [ypnb](https://github.com/AVRotaev/Portfolio/blob/main/Project_FIN_2/Project_FIN_2.ipynb)
+[HTML](https://github.com/AVRotaev/Portfolio/blob/main/Project_FIN_2/Project_FIN_2.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/Project_FIN_2/Project_FIN_2.ipynb)
 
 ## Описание проекта
 
