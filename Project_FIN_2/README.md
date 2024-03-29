@@ -2,7 +2,7 @@
 
 [HTML](https://github.com/AVRotaev/Portfolio/blob/main/Project_FIN_2/Project_FIN_2.html) [ypnb](https://github.com/AVRotaev/Portfolio/blob/main/Project_FIN_2/Project_FIN_2.ipynb)
 
-##Описание проекта
+## Описание проекта
 
 Вы работаете в стартапе, который продаёт продукты питания. Нужно разобраться, как ведут себя пользователи вашего мобильного приложения.
 
