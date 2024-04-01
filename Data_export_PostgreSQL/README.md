@@ -1,10 +1,12 @@
-# Проект ""
+# Проект "Выгрузка данных для анализа из базы данных сайта StackOverFlow"
 
-[HTML]() [ipynb]()
+[HTML](https://github.com/AVRotaev/Portfolio/blob/main/Data_export_PostgreSQL/SQL_cohort_analysis_queries.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/Data_export_PostgreSQL/SQL_cohort_analysis_queries.ipynb)
 
-## Описание проекта
+**Описание проекта**
 
-## Цель проекта:
+Вы будете работать со схемой **tools_shop** базы данных интернет-магазина по продаже инструментов.
+
+**Цель проекта**: подготовить данные для аналитической задачи.
 
 ## Используемые инструменты
 
@@ -12,13 +14,13 @@
 
 - **pandas**
 
-- **numpy**
+- **sqlalchemy**
 
-- **scipy**
+- **PostgreSQL**
 
-- **matplotlib**
 
-- **plotly**
+## Общий вывод 
 
-## Общий вывод
+**Цель проекта**: подготовить данные для аналитической задачи.
 
+**Вывод**: данные успешно выгружены и готовы к дальнейшей обработке и анализу.
