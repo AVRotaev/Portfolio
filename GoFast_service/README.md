@@ -1,6 +1,6 @@
 # Проект "Исследование сервиса аренды самокатов GoFast"
 
-[HTML](https://github.com/AVRotaev/Portfolio/blob/main/Hypotheses_check_GoFast_service/Project_GoFast_service_Hypothesis_check.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/Hypotheses_check_GoFast_service/Project_GoFast_service_Hypothesis_check.ipynb)
+[HTML](https://github.com/AVRotaev/Portfolio/blob/main/GoFast_service/Project_GoFast_service_Hypothesis_check.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/GoFast_service/Project_GoFast_service_Hypothesis_check.ipynb)
 
 ## Описание проекта
 
