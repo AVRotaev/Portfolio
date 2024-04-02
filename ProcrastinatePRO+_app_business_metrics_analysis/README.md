@@ -2,7 +2,7 @@
 
 [HTML](https://github.com/AVRotaev/Portfolio/blob/main/ProcrastinatePRO%2B_app_business_metrics_analysis/ProcrastinatePRO_Business_metrics_analysis.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/ProcrastinatePRO%2B_app_business_metrics_analysis/ProcrastinatePRO_Business_metrics_analysis.ipynb)
 
-## Описание проекта
+**Описание проекта**
 
 Вы — маркетинговый аналитик развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс.
 Есть данные о пользователях, привлечённых с 1 мая по 27 октября 2019 года:
