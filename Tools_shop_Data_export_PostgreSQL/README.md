@@ -1,6 +1,6 @@
 # Проект "Выгрузка данных для анализа из базы данных интернет-магазина"
 
-[HTML](https://github.com/AVRotaev/Portfolio/blob/main/Data_export_PostgreSQL/SQL_cohort_analysis_queries.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/Data_export_PostgreSQL/SQL_cohort_analysis_queries.ipynb)
+[HTML](https://github.com/AVRotaev/Portfolio/blob/main/Tools_shop_Data_export_PostgreSQL/SQL_cohort_analysis_queries.html) [ipynb](https://github.com/AVRotaev/Portfolio/blob/main/Tools_shop_Data_export_PostgreSQL/SQL_cohort_analysis_queries.ipynb)
 
 **Описание проекта**
 
